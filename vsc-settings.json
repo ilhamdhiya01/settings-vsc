@@ -1,0 +1,17 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 15,
+  "diffEditor.maxFileSize": 0,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 40,
+  "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "php.suggest.basic": false
+}
+
